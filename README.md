@@ -85,13 +85,15 @@
 # 📄 Research & Papers
 
 ## 🧠 “Social Responsibility of Computer Science Engineers”
-
+<div align="center">
+ 
 | Domain | Insight |
 |--------|--------|
 | Ethics | Responsibility in software development |
 | AI | Social impact of intelligent systems |
 | Engineering | Sustainable system design |
 
+</div>
 ---
 
 # 🛠️ Languages and Tools
@@ -199,7 +201,6 @@
 </div>
 
 ---
-
-# 🏁 Footer
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0ea5e9&height=140&section=footer"/>
+</div>
