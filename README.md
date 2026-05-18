@@ -6,7 +6,22 @@
 
 </div>
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:22d3ee&height=360&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=40&animation=blinking&fontColor=ffffff" alt="Neon Header"/>
+
+
+
+</div>
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:1e2937,80:06b6d4,100:67e8f9&height=400&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=41" alt="Cyber Header"/>
+</div>
+
+
+
 
 <div align="center">
 
