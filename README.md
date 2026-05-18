@@ -2,26 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0ea5e9,50:1e40af,100:38bdf8&height=300&section=header&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20System%20Thinker&descAlignY=55&descSize=16"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:22d3ee&height=360&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=40&animation=blinking&fontColor=ffffff" alt="Neon Header"/>
 
-
-
 </div>
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,50:1e2937,80:06b6d4,100:67e8f9&height=400&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=41" alt="Cyber Header"/>
-</div>
-
-
-
 
 <div align="center">
 
@@ -232,5 +215,7 @@
 
 ---
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0ea5e9&height=140&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0ea5e9,50:1e40af,100:38bdf8&height=300&section=header&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20System%20Thinker&descAlignY=55&descSize=16"/>
+
 </div>
