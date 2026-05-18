@@ -1,10 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=220&section=header&text=Md.%20Tanmoy&fontSize=45&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e40af&height=250&section=header&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
 
-# 👋 Md. Tanmoy
+# 👋 MD. SIAM AFROZ TANMOY
 
 ### 💻 Software Engineer | 🧠 AI/ML Enthusiast | ⚙️ Problem Solver
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;AI%2FML+Enthusiast;System+Design+Learner;Building+Real+World+Software"/>
 
 ---
 
@@ -16,7 +18,7 @@
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Tanmoy-uiu&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Tanmoy-uiu&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 
 </div>
 
@@ -28,7 +30,7 @@
 - 💻 C++ & Competitive Programming  
 - 🧠 AI/ML & Data Science  
 - 📊 Data Structures & Algorithms  
-- 🚀 Building real-world software systems  
+- 🚀 Building Real-World Software Systems  
 
 I focus on understanding how systems work internally, not just using them.
 
@@ -61,9 +63,9 @@ I focus on understanding how systems work internally, not just using them.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Tanmoy-uiu&show_icons=true&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanmoy-uiu&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-uiu&layout=compact&theme=tokyonight)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-uiu&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -94,4 +96,4 @@ I focus on understanding how systems work internally, not just using them.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e40af&height=140&section=footer"/>
