@@ -1,18 +1,10 @@
-<!-- ================= HERO HEADER ================= -->
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:22d3ee&height=360&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=40&animation=blinking&fontColor=ffffff" alt="Neon Header"/>
-
 </div>
-
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+in+the+Making;AI%2FML+Enthusiast+%7C+System+Thinker;Competitive+Programmer+%7C+Problem+Solver;Backend+Developer+%7C+Scalable+Systems;Always+Learning+%F0%9F%9A%80" />
 
 ---
-
-<!-- ================= SOCIALS ================= -->
 
 [![Email](https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:mdsiamafroztanmoy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siamafroztanmoy/)
