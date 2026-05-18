@@ -26,38 +26,65 @@
 
 # 🧠 About Me
 
+🎓 Computer Science and Engineering student at  
+**United International University (UIU), Dhaka, Bangladesh**
+
+💡 Passionate about:
+
 - ⚙️ Operating Systems & System Design  
-- 💻 C++ & Competitive Programming  
+- 💻 Competitive Programming & Problem Solving  
 - 🧠 AI/ML & Data Science  
 - 📊 Data Structures & Algorithms  
-- 🚀 Building Real-World Software Systems  
+- 🚀 Backend & Real-World Software Systems  
 
-I focus on understanding how systems work internally, not just using them.
+I enjoy understanding how systems work internally and applying programming knowledge to real-world software and research problems.
 
 ---
 
+# 🎓 Education
+
+### 🏛️ United International University (UIU)
+
+**B.Sc. in Computer Science and Engineering**  
+📍 Dhaka, Bangladesh  
+📅 Oct 2022 - Mar 2026  
+
+- 🎯 Predicted CGPA: **4.00**
+- 📚 Focus Areas:
+  - Software Engineering
+  - AI/ML
+  - System Design
+  - Data Structures & Algorithms
+
+---
+
+# 🚀 Projects
+
+### 🌐 Web Programming Project
+- Developed web-based applications using frontend and backend technologies.
+- Worked on responsive UI and backend logic integration.
+
+### 🤝 UIU Friends Loan & Crowdfunding Society
+- Collaborative university-based project.
+- Focused on crowdfunding and financial support system concepts.
+
+---
+
+# 📄 Research & Papers
+
+### 🧠 The Social Responsibility of CS Engineers
+- Research focused on ethical responsibilities of computer science professionals.
+- Explored the impact of technology on society and engineering ethics.
+
+---
 
 # 🛠️ Languages and Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,mysql,git,github,html,css,bootstrap,flask,mongodb,figma,notion,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,mysql,git,github,html,css,bootstrap,flask,mongodb,vscode,figma&theme=dark" />
 
 </div>
-
----
-
-### 🧠 AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -69,16 +96,31 @@ I focus on understanding how systems work internally, not just using them.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-uiu&layout=compact&theme=tokyonight&hide_border=true"/>
 
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmoy-uiu&theme=tokyonight&hide_border=true"/>
+
 </div>
 
 ---
 
-# 🏆 Achievements / Focus
+# 🏆 Achievements & Focus
 
-- Problem Solving & Competitive Programming  
-- System Design Basics  
-- OS & Backend Understanding  
-- AI/ML Learning Journey  
+- 🎯 Predicted CGPA 4.00 at UIU
+- 💻 Competitive Programming & Problem Solving
+- 🧠 AI/ML Learning Journey
+- ⚙️ System Design & OS Fundamentals
+- 🚀 Building Real-World Software Systems
+- 📄 Academic Research & Technical Writing
+
+---
+
+# 🌍 Languages
+
+- 🇧🇩 Bengali (Native)
+- 🇺🇸 English
+- 🇮🇳 Hindi
+- 🇵🇰 Urdu
 
 ---
 
@@ -97,5 +139,11 @@ I focus on understanding how systems work internally, not just using them.
 ### ⚡ “I don’t just write code, I try to understand the system behind it.”
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmoy-uiu&theme=tokyonight"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e40af&height=140&section=footer"/>
