@@ -9,10 +9,12 @@
 [![Email](https://img.shields.io/badge/Email-mdsiamafroztanmoy%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mdsiamafroztanmoy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siamafroztanmoy/)
 [![GitHub](https://img.shields.io/badge/GitHub-Tanmoy--uiu-black?style=for-the-badge&logo=github)](https://github.com/Tanmoy-uiu)
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/md.siamafroz.tanmoy/)
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Siam_Tanmoy)
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=Tanmoy-uiu&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Tanmoy-uiu&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
@@ -20,25 +22,38 @@
 
 # 🧠 About Me
 
-I am a Computer Science student passionate about:
-
 - ⚙️ Operating Systems & System Design  
 - 💻 C++ & Competitive Programming  
-- 🧠 Artificial Intelligence & Machine Learning  
+- 🧠 AI/ML & Data Science  
 - 📊 Data Structures & Algorithms  
 - 🚀 Building real-world software systems  
 
-I enjoy writing code that not only works, but also helps me understand how systems behave internally.
+I focus on understanding how systems work internally, not just using them.
+
+---
+
+# 🖼️ Profile Banner (PNG Style)
+
+👉 Add this like a professional GitHub profile header:
+
+```
+https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Tanmoy%20UIU&fontSize=40&fontColor=ffffff
+```
+
+👉 Use it like this:
+
+```html
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Tanmoy%20UIU&fontSize=40&fontColor=ffffff"/>
+```
 
 ---
 
 # 🛠️ Languages and Tools
 
-### 💻 Programming Languages
+### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
@@ -49,7 +64,7 @@ I enjoy writing code that not only works, but also helps me understand how syste
 
 ---
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -60,30 +75,20 @@ I enjoy writing code that not only works, but also helps me understand how syste
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanmoy-uiu&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Tanmoy-uiu&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-uiu&layout=compact&theme=tokyonight)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-uiu&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-# 🏆 Interests
+# 🏆 Achievements / Focus
 
-- Operating Systems Internals  
-- Machine Learning & AI Systems  
-- Competitive Programming  
-- Backend Engineering  
-- System Design Fundamentals  
-
----
-
-# 🎯 Goals
-
-- Become a strong Software Engineer  
-- Master AI/ML + Systems Engineering  
-- Build scalable real-world applications  
-- Contribute to open-source projects  
+- Problem Solving & Competitive Programming  
+- System Design Basics  
+- OS & Backend Understanding  
+- AI/ML Learning Journey  
 
 ---
 
@@ -91,12 +96,14 @@ I enjoy writing code that not only works, but also helps me understand how syste
 
 - 📧 Email: mdsiamafroztanmoy@gmail.com  
 - 💼 LinkedIn: https://www.linkedin.com/in/siamafroztanmoy/  
+- 📘 Facebook: https://www.facebook.com/md.siamafroz.tanmoy/  
+- ▶️ YouTube: https://www.youtube.com/@Siam_Tanmoy  
 - 💻 GitHub: https://github.com/Tanmoy-uiu  
 
 ---
 
 <div align="center">
 
-### ⚡ “First understand the system, then write the code.”
+### ⚡ “I don’t just write code, I try to understand the system behind it.”
 
 </div>
