@@ -36,9 +36,7 @@ I focus on understanding how systems work internally, not just using them.
 
 ---
 
-# 🛠️ Languages and Tools
 
-### 💻 Languages
 # 🛠️ Languages and Tools
 
 <div align="center">
