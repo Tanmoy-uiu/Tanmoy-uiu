@@ -1,6 +1,8 @@
 <!-- ================= HERO HEADER ================= -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e40af&height=280&section=header&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1200,100:0a0a0a&height=280&section=header&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=42&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Creator&descSize=16&descAlignY=58&descColor=a08030&stroke=D4AF37&strokeWidth=1" />
+
 </div>
 <div align="center">
 
