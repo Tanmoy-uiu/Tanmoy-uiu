@@ -36,5 +36,74 @@ I focus on understanding how systems work internally, not just using them.
 
 👉 Add this like a professional GitHub profile header:
 
-```txt
+```
 https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Tanmoy%20UIU&fontSize=40&fontColor=ffffff
+```
+
+👉 Use it like this:
+
+```html
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Tanmoy%20UIU&fontSize=40&fontColor=ffffff"/>
+```
+
+---
+
+# 🛠️ Languages and Tools
+
+### 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+### 🧠 AI / ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Tanmoy-uiu&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-uiu&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 🏆 Achievements / Focus
+
+- Problem Solving & Competitive Programming  
+- System Design Basics  
+- OS & Backend Understanding  
+- AI/ML Learning Journey  
+
+---
+
+# 🌐 Connect With Me
+
+- 📧 Email: mdsiamafroztanmoy@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/siamafroztanmoy/  
+- 📘 Facebook: https://www.facebook.com/md.siamafroz.tanmoy/  
+- ▶️ YouTube: https://www.youtube.com/@Siam_Tanmoy  
+- 💻 GitHub: https://github.com/Tanmoy-uiu  
+
+---
+
+<div align="center">
+
+### ⚡ “I don’t just write code, I try to understand the system behind it.”
+
+</div>
