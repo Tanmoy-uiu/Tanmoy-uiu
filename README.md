@@ -58,6 +58,18 @@ I enjoy understanding how systems work internally and applying programming knowl
 
 ---
 
+# 🏆 Awards
+
+- 🎓 Merit-Based Scholarship - United International University (UIU), Fall 2022  
+- 🎓 Merit-Based Scholarship - United International University (UIU), Fall 2023  
+- 🎓 Merit-Based Scholarship - United International University (UIU), Spring 2024  
+- 🎓 Merit-Based Scholarship - United International University (UIU), Summer 2024  
+- 🎓 Merit-Based Scholarship - United International University (UIU), Spring 2025  
+- 🎓 Merit-Based Scholarship - United International University (UIU), Fall 2025  
+- 🎓 Merit-Based Scholarship - United International University (UIU), Spring 2026  
+
+---
+
 # 🚀 Projects
 
 ### 🌐 Web Programming Project
