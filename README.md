@@ -1,9 +1,13 @@
 <!-- ================= HERO HEADER ================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1200,100:0a0a0a&height=280&section=header&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=42&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Developer%20%E2%80%A2%20Designer%20%E2%80%A2%20Creator&descSize=16&descAlignY=58&descColor=a08030&stroke=D4AF37&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,25:0ea5e9,50:1e40af,100:38bdf8&height=300&section=header&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Enthusiast%20%7C%20System%20Thinker&descAlignY=55&descSize=16"/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,100:22d3ee&height=360&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=40&animation=blinking&fontColor=ffffff" alt="Neon Header"/>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+in+the+Making;AI%2FML+Enthusiast+%7C+System+Thinker;Competitive+Programmer+%7C+Problem+Solver;Backend+Developer+%7C+Scalable+Systems;Always+Learning+%F0%9F%9A%80" />
