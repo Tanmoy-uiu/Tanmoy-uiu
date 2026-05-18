@@ -1,161 +1,186 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e40af&height=250&section=header&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<!-- ================= HEADER ================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e40af&height=260&section=header&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
 
-# 👋 MD. SIAM AFROZ TANMOY
-
-### 💻 Software Engineer | 🧠 AI/ML Enthusiast | ⚙️ Problem Solver
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Competitive+Programmer;AI%2FML+Enthusiast;System+Design+Learner;Building+Real+World+Software"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=Software+Engineering+Student;AI%2FML+Enthusiast;Competitive+Programmer;System+Design+Learner;Backend+%26+Scalable+Systems+Builder" />
 
 ---
 
-[![Email](https://img.shields.io/badge/Email-mdsiamafroztanmoy%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mdsiamafroztanmoy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siamafroztanmoy/)
-[![GitHub](https://img.shields.io/badge/GitHub-Tanmoy--uiu-black?style=for-the-badge&logo=github)](https://github.com/Tanmoy-uiu)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/md.siamafroz.tanmoy/)
+[![Email](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail)](mailto:mdsiamafroztanmoy@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siamafroztanmoy/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-000?style=for-the-badge&logo=github)](https://github.com/Tanmoy-uiu)
 [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@Siam_Tanmoy)
 
----
-
-<img src="https://komarev.com/ghpvc/?username=Tanmoy-uiu&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-
 </div>
 
 ---
 
-# 🧠 About Me
+# 🧠 ABOUT ME
 
-🎓 Computer Science and Engineering student at  
-**United International University (UIU), Dhaka, Bangladesh**
+<table>
+<tr>
+<td>
 
-💡 Passionate about:
+🎓 **Computer Science & Engineering Student**  
+United International University (UIU), Dhaka
 
-- ⚙️ Operating Systems & System Design  
-- 💻 Competitive Programming & Problem Solving  
-- 🧠 AI/ML & Data Science  
-- 📊 Data Structures & Algorithms  
-- 🚀 Backend & Real-World Software Systems  
+💡 **Interests**
+- AI / ML
+- System Design
+- Competitive Programming
+- Backend Engineering
+- Data Structures & Algorithms
 
-I enjoy understanding how systems work internally and applying programming knowledge to real-world software and research problems.
+🚀 **Philosophy**
+> “I don’t just write code — I build systems that scale.”
 
----
+</td>
 
-# 🎓 Education
+<td>
 
-### 🏛️ United International University (UIU)
+📍 Location: Dhaka, Bangladesh  
+📅 Duration: 2022 – 2026  
 
-**B.Sc. in Computer Science and Engineering**  
-📍 Dhaka, Bangladesh  
-📅 Oct 2022 - Mar 2026  
+⚙️ Currently Learning:
+- Distributed Systems
+- Advanced DSA
+- Machine Learning
+- Software Architecture
 
-- 🎯 Predicted CGPA: **4.00**
-- 📚 Focus Areas:
-  - Software Engineering
-  - AI/ML
-  - System Design
-  - Data Structures & Algorithms
+🔥 Passion:
+- Real-world engineering problems
+- Low-level system understanding
 
----
-
-# 🏆 Awards
-
-- 🎓 Merit-Based Scholarship - United International University (UIU), Fall 2022  
-- 🎓 Merit-Based Scholarship - United International University (UIU), Fall 2023  
-- 🎓 Merit-Based Scholarship - United International University (UIU), Spring 2024  
-- 🎓 Merit-Based Scholarship - United International University (UIU), Summer 2024  
-- 🎓 Merit-Based Scholarship - United International University (UIU), Spring 2025  
-- 🎓 Merit-Based Scholarship - United International University (UIU), Fall 2025  
-- 🎓 Merit-Based Scholarship - United International University (UIU), Spring 2026  
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Projects
+# 🎓 EDUCATION
 
-### 🌐 Web Programming Project
-- Developed web-based applications using frontend and backend technologies.
-- Worked on responsive UI and backend logic integration.
-
-### 🤝 UIU Friends Loan & Crowdfunding Society
-- Collaborative university-based project.
-- Focused on crowdfunding and financial support system concepts.
+| Degree | Institute | Duration | Result |
+|--------|----------|----------|--------|
+| B.Sc in CSE | United International University | 2022 - 2026 | ⭐ 4.00 (Expected) |
 
 ---
 
-# 📄 Research & Papers
+# 🏆 ACHIEVEMENTS
 
-### 🧠 The Social Responsibility of CS Engineers
-- Research focused on ethical responsibilities of computer science professionals.
-- Explored the impact of technology on society and engineering ethics.
-
----
-
-# 🛠️ Languages and Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,mysql,git,github,html,css,bootstrap,flask,mongodb,vscode,figma&theme=dark" />
-
-</div>
+| Semester | Award |
+|----------|------|
+| Fall 2022 | 🎓 Merit-Based Scholarship |
+| Fall 2023 | 🎓 Merit-Based Scholarship |
+| Spring 2024 | 🎓 Merit-Based Scholarship |
+| Summer 2024 | 🎓 Merit-Based Scholarship |
+| Fall 2024 | 🎓 Merit-Based Scholarship |
+| Spring 2025 | 🎓 Merit-Based Scholarship |
+| Fall 2025 | 🎓 Merit-Based Scholarship |
+| Spring 2026 | 🎓 Merit-Based Scholarship |
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 PROJECTS
 
-<div align="center">
+## 🌐 Web Development
+✔ Full-stack web applications  
+✔ REST API systems  
+✔ Responsive UI design  
+✔ Backend integration  
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanmoy-uiu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-uiu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmoy-uiu&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Achievements & Focus
-
-- 🎯 Predicted CGPA 4.00 at UIU
-- 💻 Competitive Programming & Problem Solving
-- 🧠 AI/ML Learning Journey
-- ⚙️ System Design & OS Fundamentals
-- 🚀 Building Real-World Software Systems
-- 📄 Academic Research & Technical Writing
+## 🤝 UIU Crowdfunding System
+✔ University-based financial platform  
+✔ Group collaboration system  
+✔ Real-world problem solving  
 
 ---
 
-# 🌍 Languages
+# 📄 RESEARCH
 
-- 🇧🇩 Bengali (Native)
-- 🇺🇸 English
-- 🇮🇳 Hindi
-- 🇵🇰 Urdu
+## 🧠 Social Responsibility of CS Engineers
 
----
-
-# 🌐 Connect With Me
-
-- 📧 Email: mdsiamafroztanmoy@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/siamafroztanmoy/  
-- 📘 Facebook: https://www.facebook.com/md.siamafroz.tanmoy/  
-- ▶️ YouTube: https://www.youtube.com/@Siam_Tanmoy  
-- 💻 GitHub: https://github.com/Tanmoy-uiu  
+| Area | Description |
+|------|------------|
+| Ethics | Responsibility of engineers in society |
+| AI Impact | Effects of automation on humans |
+| Systems | Ethical software design principles |
 
 ---
 
-<div align="center">
+# 🛠️ TECH STACK
 
-### ⚡ “I don’t just write code, I try to understand the system behind it.”
+## 💻 Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-</div>
+## 🌐 Web
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+## 🗄️ Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
+
+# 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanmoy-uiu&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Tanmoy-uiu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmoy-uiu&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e40af&height=140&section=footer"/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanmoy-uiu&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌍 LANGUAGES
+
+| Language | Level |
+|----------|------|
+| 🇧🇩 Bengali | Native |
+| 🇺🇸 English | Fluent |
+| 🇮🇳 Hindi | Conversational |
+| 🇵🇰 Urdu | Basic |
+
+---
+
+# 🌐 CONNECT
+
+| Platform | Link |
+|----------|------|
+| 📧 Email | mdsiamafroztanmoy@gmail.com |
+| 💼 LinkedIn | linkedin.com/in/siamafroztanmoy |
+| 📘 Facebook | fb.com/md.siamafroz.tanmoy |
+| ▶️ YouTube | @Siam_Tanmoy |
+| 💻 GitHub | github.com/Tanmoy-uiu |
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Code+is+not+just+syntax;It+is+system+thinking+in+motion;Build+something+that+matters." />
+
+---
+
+### ⚡ “I don’t just write code, I engineer systems.”
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e40af,100:0ea5e9&height=140&section=footer"/>
