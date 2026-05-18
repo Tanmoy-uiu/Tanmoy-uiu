@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=220&section=header&text=Md.%20Tanmoy&fontSize=45&fontColor=ffffff"/>
+
 <div align="center">
 
 # 👋 Md. Tanmoy
@@ -29,22 +31,6 @@
 - 🚀 Building real-world software systems  
 
 I focus on understanding how systems work internally, not just using them.
-
----
-
-# 🖼️ Profile Banner (PNG Style)
-
-👉 Add this like a professional GitHub profile header:
-
-```
-https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Tanmoy%20UIU&fontSize=40&fontColor=ffffff
-```
-
-👉 Use it like this:
-
-```html
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=200&section=header&text=Tanmoy%20UIU&fontSize=40&fontColor=ffffff"/>
-```
 
 ---
 
@@ -107,3 +93,5 @@ https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&heig
 ### ⚡ “I don’t just write code, I try to understand the system behind it.”
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e3a8a&height=120&section=footer"/>
