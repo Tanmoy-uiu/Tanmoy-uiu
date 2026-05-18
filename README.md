@@ -1,7 +1,7 @@
 <!-- ================= HERO HEADER ================= -->
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e40af&height=280&section=header&text=MD.%20SIAM%20AFROZ%20TANMOY&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
+</div>
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Software+Engineer+in+the+Making;AI%2FML+Enthusiast+%7C+System+Thinker;Competitive+Programmer+%7C+Problem+Solver;Backend+Developer+%7C+Scalable+Systems;Always+Learning+%F0%9F%9A%80" />
