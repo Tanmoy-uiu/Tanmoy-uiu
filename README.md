@@ -24,7 +24,7 @@
 
 # ⚡ About Me
 
-<table>
+<table align=center>
 <tr>
 <td width="55%">
 
@@ -94,6 +94,7 @@
 | Engineering | Sustainable system design |
 
 </div>
+
 ---
 
 # 🛠️ Languages and Tools
@@ -155,6 +156,8 @@
 
 # 🌍 Language Proficiency
 
+<div align="center">
+ 
 | Language | Level |
 |----------|------|
 | 🇧🇩 Bengali | Native |
@@ -162,10 +165,14 @@
 | 🇮🇳 Hindi | Conversational |
 | 🇵🇰 Urdu | Basic |
 
+</div>
+
 ---
 
 # 🌐 Connect With Me
 
+<div align="center">
+ 
 | Platform | Link |
 |----------|------|
 | 📧 Email | mdsiamafroztanmoy@gmail.com   |
@@ -173,6 +180,8 @@
 | 📘 Facebook | [fb.com/md.siamafroz.tanmoy](https://www.facebook.com/md.siamafroz.tanmoy) |
 | ▶️ YouTube | [@Siam_Tanmoy](https://www.youtube.com/@Siam_Tanmoy) |
 | 💻 GitHub | [github.com/Tanmoy-uiu](https://github.com/Tanmoy-uiu ) |
+
+</div>
 
 ---
 
